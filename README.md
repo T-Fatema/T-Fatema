@@ -1,3 +1,16 @@
+<h1 align="center">Hi 👋, I'm Fatema Khatun</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
+<img align = "right" alt = "coding" width = "400" src = "https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=t-fatema&label=Profile%20views&color=0e75b6&style=flat" alt="t-fatema" /> </p>
+
+- 👨‍💻 All of my projects are available at [#](https://github.com/T-Fatema)
+
+- 📫 How to reach me **fatema200152@diit.edu.bd**
+
+- ⚡ Fun fact **I think I am Funny**
+
 
 ## 🌐 Connect With Me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/fatemajannat.tithi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tith__y) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ftithi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/FTithi05) 
