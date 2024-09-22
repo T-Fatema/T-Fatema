@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fatema Khatun</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 👨‍💻 All of my projects are available at [#](https://github.com/T-Fatema)
+- 👨‍💻 All of my projects are available at [#Github](https://github.com/T-Fatema)
 
 - 📫 How to reach me **fatema200152@diit.edu.bd**
-
-- ⚡ Fun fact **I think I am Funny**
 
 
 ## 🌐 Connect With Me:
