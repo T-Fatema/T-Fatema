@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fatema Khatun</h1>
-<img align = "right" alt = "coding" width = "400" src = "https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=t-fatema&label=Profile%20views&color=0e75b6&style=flat" alt="t-fatema" /> </p>
+
 - 👨‍💻 All of my projects are available at [#Github](https://github.com/T-Fatema)
 
 - 📫 How to reach me **fatema200152@diit.edu.bd**
