@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatema Khatun</h1>
+[![](https://visitcount.itsvg.in/api?id=T-Fatema&icon=0&color=0)](https://visitcount.itsvg.in)
 
 - 👨‍💻 All of my projects are available at [#Github](https://github.com/T-Fatema)
 
@@ -22,7 +23,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=T-Fatema&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=T-Fatema&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
