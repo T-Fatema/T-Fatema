@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fatema Khatun</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img align = "right" alt = "coding" width = "400" src = "https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
-
-
 - 👨‍💻 All of my projects are available at [#](https://github.com/T-Fatema)
 
 - 📫 How to reach me **fatema200152@diit.edu.bd**
