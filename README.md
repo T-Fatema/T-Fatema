@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [#Github](https://github.com/T-Fatema)
 
-- 📫 How to reach me **fatemakhatun.cse22@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/ftithi/**
 
 
 ## 🌐 Connect With Me:
